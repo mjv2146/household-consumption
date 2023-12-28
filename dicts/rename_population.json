@@ -1,0 +1,13 @@
+{
+    "folio"     : "hhid",
+    "folioviv"  : "hhid",
+    "paren"     : "relationship_to_hhm",
+    "parentesco": "relationship_to_hhm",
+    "sexo"      : "sex",
+    "edad"      : "age",
+    "tipo_esc"  : "type_of_education",
+    "n_instr141": "education",
+    "n_instr161": "education",
+    "ed_formal" : "education",
+    "ed_tecnica": "education_technical"
+}

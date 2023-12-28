@@ -1,0 +1,19 @@
+{
+    "P016":"income_land_landrental",
+    "P017":"income_rental_houses_buildings_other_realestate",
+    "P018":"income_interest_fixed_investments",
+    "P019":"income_interest_savings_accounts",
+    "P020":"income_interest_loans_to_third_parties",
+    "P021":"income_interest_shares_bonds",
+    "P022":"income_rental_trademarks_patents_copyrights",
+    "P031":"income_withdrawal_savings",
+    "P032":"income_from_loans_to_third_parties_not_in_household",
+    "P033":"income_from_loans_to_institutions_not_mortgage",
+    "P034":"income_coins_preciousmetals_art",
+    "P035":"income_securities_bonds",
+    "P036":"income_trademarks_patents_copyrights",
+    "P037":"income_inheritance_dowrie_legacies",
+    "P038":"income_house_land_condiminum",
+    "P039":"income_hhbusiness_machinery_animal_equipment",
+    "P040":"income_realestate_mortgage"
+}

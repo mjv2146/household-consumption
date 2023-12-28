@@ -1,0 +1,17 @@
+{
+    "Q001":"expense_deposits_savings",
+    "Q002":"expense_loans_to_third_parties",
+    "Q003":"expense_credit_card_payments",
+    "Q004":"expense_debt_to_work_or_person",
+    "Q005":"expense_foreigncurrencies_perciousmetals_art",
+    "Q006":"expense_life_insurance",
+    "Q007":"expense_inheritance_dowrie_legacies",
+    "Q008":"expense_realestate_hh_not_inhabit",
+    "Q009":"expense_realestate_hh_inhabit",
+    "Q010":"expense_realestate_mortgage",
+    "Q011":"expense_other",
+    "Q012":"expense_hhbusiness_machinery_animal_equipment",
+    "Q013":"expense_hhbusiness_negative_balance",
+    "Q014":"expense_securities_shares_bond",
+    "Q015":"expense_trademarks_patents_copyrights"
+}
