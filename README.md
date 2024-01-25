@@ -13,7 +13,6 @@ Mexico [National Survey of Household Income and Expenditure](https://en.www.ineg
 - Joined individual and household level datasets
 - Merged datasets from each year
 - Removed income outliers
-- Combine datasets from different years
 
 ### Methods
 - Linear Regression
