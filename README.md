@@ -1,10 +1,15 @@
-# ENIGH
-
+# Household Consumption
 ### Task
 - This project studies how households change their consumption in response to a recession. 
 - I study the Mexican Peso Crisis of 1994.
-- I find that households cut back on clothing, housing, and health goods.
-- In contrast, households had cut back less on food, transportation, and personal items. 
+
+### Findings
+- Households cut back most on clothing, housing, and health goods.
+- In contrast, households cut back less on food, transportation, and personal items. 
+- High income households faced larger income declines than low income households.
+
+![pic](./fig/mpc_elasticity_separate.png)
+![pic](./fig/mpc_percentchange_nondurable.png)
 
 ### Data
 Mexico [National Survey of Household Income and Expenditure](https://en.www.inegi.org.mx/programas/enigh/tradicional/1994/)
@@ -12,11 +17,11 @@ Mexico [National Survey of Household Income and Expenditure](https://en.www.ineg
 ### Data Wrangling
 - Joined individual and household level datasets
 - Merged datasets from each year
-- Removed income outliers
+- Removed income and consumption outliers
 
 ### Methods
 - Linear Regression
-- Bootstrap to compute standard errors
+- Bootstrap (confidence intervals)
 
 ### Tools
 - Pandas - data wrangling
